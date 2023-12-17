@@ -1,0 +1,1 @@
+programa que ler o númerp de um funcionário, seu número de horas trabalhadas, o valor de receber por hora  e calcula o sálario desse funcionário. número e salário do funcionário ,com duas casas decimais.
